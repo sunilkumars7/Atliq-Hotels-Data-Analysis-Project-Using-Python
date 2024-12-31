@@ -1,7 +1,5 @@
 # Atliq-Hotels-Data-Analysis-Project-Using-Python
 
-# Atliq Grands Hospitality Data Analysis
-
 ## Problem Statement:
 
 Atliq Grands, a hotel chain with over 20 years in the hospitality industry, has seen a decline in market share and revenue due to strategic moves by competitors. The management has expressed concern about the situation and has hired a team of data analysts to explore potential solutions.

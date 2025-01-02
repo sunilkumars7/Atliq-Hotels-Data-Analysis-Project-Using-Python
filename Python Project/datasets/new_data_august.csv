@@ -1,0 +1,8 @@
+property_id,check_in_date,room_category,successful_bookings,capacity,occ_pct
+16559,01-Aug-22,RT1,30,30,100
+19562,01-Aug-22,RT1,21,30,70
+19563,01-Aug-22,RT1,23,30,76.67
+19558,01-Aug-22,RT1,30,40,75
+19560,01-Aug-22,RT1,20,26,76.92
+17561,01-Aug-22,RT1,18,26,69.23
+17564,01-Aug-22,RT1,10,16,62.5
